@@ -4,19 +4,19 @@
     "url": "https://chunithm.beerpsi.cc",
     "icon": "https://icons.duckduckgo.com/ip3/chunithm.beerpsi.cc.ico",
     "slug": "chunithm-international-discord-bot",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 705,
-    "timeDay": 849,
-    "timeWeek": 725,
-    "timeMonth": 705,
-    "timeYear": 705,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 706,
+    "timeDay": 810,
+    "timeWeek": 726,
+    "timeMonth": 706,
+    "timeYear": 706,
     "dailyMinutesDown": {
-      "2024-08-10": 0
+      "2024-08-10": 15
     }
   }
 ]
